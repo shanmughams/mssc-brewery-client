@@ -1,0 +1,1 @@
+package com.shan.springms.msscbreweryclient.web.client;
